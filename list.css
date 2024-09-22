@@ -1,0 +1,32 @@
+body{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-image: url('img2.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+
+
+}
+ h1 {
+    font-size: 600%;
+    font-style: italic;
+    color:indigo;
+    text-decoration: underline;
+    
+ }
+ p {
+    font-size: 30px;
+    font-style: oblique;
+    color:black;
+    
+ }
+ button {
+    font-size: 40px;
+    font-family:serif;
+    color: deeppink;
+ }
+ 
