@@ -4,7 +4,7 @@
 
 > [!IMPORTANT]
 >
-> **Technologies Used:**
+> **Technologies Used**
 >
 > **Languages:** JavaScript
 >
